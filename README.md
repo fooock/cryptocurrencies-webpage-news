@@ -1,6 +1,7 @@
 # List of cryptocurrencies news webpages
 Some of the websites that you have to follow to stay up to date
 
+### Webpages
 * [crypto-news.net](https://www.crypto-news.net)
 * [bitcoinist.com](http://bitcoinist.com)
 * [ccn.com](https://www.ccn.com)
@@ -28,3 +29,4 @@ Some of the websites that you have to follow to stay up to date
 * [bitcoin.com](https://www.bitcoin.com)
 * [ethereumworldnews.com](https://ethereumworldnews.com)
 * [profitconfidential.com](https://www.profitconfidential.com)
+* [investopedia.com/tech/](https://www.investopedia.com/tech/)
