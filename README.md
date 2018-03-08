@@ -29,8 +29,9 @@ Some of the websites that you have to follow to stay up to date
 * [bitcoin.com](https://www.bitcoin.com)
 * [ethereumworldnews.com](https://ethereumworldnews.com)
 * [profitconfidential.com](https://www.profitconfidential.com)
-* [investopedia.com/tech/](https://www.investopedia.com/tech/)
+* [investopedia.com/tech](https://www.investopedia.com/tech/)
 * [bloomberg.com/crypto](https://www.bloomberg.com/crypto)
+* [livebitcoinnews.com](http://www.livebitcoinnews.com/)
 
 ### Twitter
 * [Brad Garlinghouse](https://www.investopedia.com/tech/) - Ripple CEO
